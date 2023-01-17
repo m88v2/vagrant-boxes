@@ -1,4 +1,4 @@
-# vagrant-boxes
+# [m88v2](https://app.vagrantup.com/m88v2) vagrant-boxes
 
 We create vagrant box with some Operational Systems to easily deploy then to tests
 
@@ -12,9 +12,7 @@ We create vagrant box with some Operational Systems to easily deploy then to tes
 * m88v2/bedrock-linux
 
   * bedrock linux install in kubuntu
-* m88v2/Windows-Server
 
-  * clean installation + vboxguestadditions; Windows-Server US user: vagrant pass: vagrant
 * m88v2/BigLinux
 * BigLinux
 * m88v2/NixOs-Plasma
@@ -47,3 +45,6 @@ We create vagrant box with some Operational Systems to easily deploy then to tes
 * m88v2/windows8
 
   * windows 8 user: vagrant pass: vagrant
+* m88v2/Windows-Server
+
+  * clean installation + vboxguestadditions; Windows-Server US user: vagrant pass: vagrant
